@@ -1,0 +1,21 @@
+C:\Users\Administrator\source\repos\keyevent\bin\Debug\keyevent.exe.config
+C:\Users\Administrator\source\repos\keyevent\bin\Debug\keyevent.exe
+C:\Users\Administrator\source\repos\keyevent\bin\Debug\keyevent.pdb
+C:\Users\Administrator\source\repos\keyevent\obj\Debug\keyevent.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\keyevent\obj\Debug\keyevent.Form1.resources
+C:\Users\Administrator\source\repos\keyevent\obj\Debug\keyevent.Properties.Resources.resources
+C:\Users\Administrator\source\repos\keyevent\obj\Debug\keyevent.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\keyevent\obj\Debug\keyevent.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\keyevent\obj\Debug\keyevent.exe
+C:\Users\Administrator\source\repos\keyevent\obj\Debug\keyevent.pdb
+D:\5 Şubat Desktop\Dersler\repos\keyevent\bin\Debug\keyevent.exe.config
+D:\5 Şubat Desktop\Dersler\repos\keyevent\bin\Debug\keyevent.exe
+D:\5 Şubat Desktop\Dersler\repos\keyevent\bin\Debug\keyevent.pdb
+D:\5 Şubat Desktop\Dersler\repos\keyevent\obj\Debug\keyevent.csproj.AssemblyReference.cache
+D:\5 Şubat Desktop\Dersler\repos\keyevent\obj\Debug\keyevent.csproj.SuggestedBindingRedirects.cache
+D:\5 Şubat Desktop\Dersler\repos\keyevent\obj\Debug\keyevent.Form1.resources
+D:\5 Şubat Desktop\Dersler\repos\keyevent\obj\Debug\keyevent.Properties.Resources.resources
+D:\5 Şubat Desktop\Dersler\repos\keyevent\obj\Debug\keyevent.csproj.GenerateResource.cache
+D:\5 Şubat Desktop\Dersler\repos\keyevent\obj\Debug\keyevent.csproj.CoreCompileInputs.cache
+D:\5 Şubat Desktop\Dersler\repos\keyevent\obj\Debug\keyevent.exe
+D:\5 Şubat Desktop\Dersler\repos\keyevent\obj\Debug\keyevent.pdb
