@@ -12,7 +12,7 @@ description:
 
 ## 🔰 Ne İşe Yarar
 ⭐ Basılan tuşu yakalar ve engeller.</br>
-❇️ Projenin genel amacı yapılan programlarda veri tabanlarıyla olan iletişim problemleri olduğunda veya db serverine bağlanılmadığında işlerin gecikmesini önlemek amacıyla 1 uzak sunucuda 1 de localde olan db bağlantısı sayesinde bağlantı sürekliliğini sağlamaktır. Uzak sunucu bağlantısı kopsa bile bilgiler local db ye kaydedilmekte bağlantı sağlandığında uzak sunucuya eşitlenme sağlanmaktadır.</br>
+
 
           public void DinlenecekTuslariAyarla()
         {
