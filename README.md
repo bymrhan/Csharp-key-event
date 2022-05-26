@@ -4,7 +4,7 @@ description:
 ---
 
 <img align="right" alt="GIF" src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/61bb05edca00197f2e7a19cf_Csharp_Logo.png" width="15%"/>
-# 🌱 C# Merkez Bankası Döviz Kuru Bilgilerini Çekme – XML
+# 🌱 C# C#  Basılan tuşu engelleme - KEY EVENT
 
 > 📣 Proje amaçlı yapılmıştır.</br>
 > ⏬ Güncelleme yapılmayacaktır. </br>
